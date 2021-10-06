@@ -1,0 +1,6 @@
+# Name of the repository, if different than the git URL
+# Used as the default when adding to a local Functions instance
+name: boson-test-language-pack
+
+# Templates path within the repository.
+templates: templates
